@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Indie Developer from Nigeria. I specialize in building engaging websites and themes for various platforms including Shopify, WordPress, and HTML Templates, as well as developing other projects to solve real-life problems.
 
+</hr>
 
-
-### Languages and Tools
+### 💼 Languages and Tools
 
 
 I love turning ideas into reality through code. My journey as a developer has allowed me to work with a wide range of technologies. Here’s a bit more about what I do:
