@@ -1,6 +1,6 @@
 # Hello, I'm [Your Name] 👋
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Indie Developer from Nigeria. I specialize in building engaging websites and themes for various platforms including Shopify, WordPress, and Bootstrap.
+Welcome to my GitHub profile! I'm a passionate Full Stack Indie Developer from Nigeria. I specialize in building engaging websites and themes for various platforms including Shopify, WordPress, and Bootstrap, as well as developing other projects to solve real-life problems.
 
 ![Header Image](https://your-image-url.com/header-image.png)
 
@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Indie Developer from N
 I love turning ideas into reality through code. My journey as a developer has allowed me to work with a wide range of technologies. Here’s a bit more about what I do:
 
 - 🌐 **Website & Theme Development**: Creating stunning websites and themes using modern technologies.
+- 🔧 **Problem-Solving Projects**: Building solutions to address real-life challenges and make life easier.
 - 📚 **Tech Stack**: HTML, CSS, Tailwind CSS, Bootstrap, jQuery, Vue.js, Node.js, PHP, Bash, Laravel.
 - 🇳🇬 **Based in Nigeria**: Proudly building solutions from the heart of Africa.
 
