@@ -1,6 +1,6 @@
 # Hello, I'm [Your Name] 👋
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Indie Developer from Nigeria. I specialize in building engaging websites and themes for various platforms including Shopify, WordPress, and Bootstrap. 
+Welcome to my GitHub profile! I'm a passionate Full Stack Indie Developer from Nigeria. I specialize in building engaging websites and themes for various platforms including Shopify, WordPress, and Bootstrap.
 
 ![Header Image](https://your-image-url.com/header-image.png)
 
@@ -16,7 +16,8 @@ I love turning ideas into reality through code. My journey as a developer has al
 
 ### Frontend
 
-- **HTML & CSS** ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+- **HTML** ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+- **CSS** ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 - **Tailwind CSS** ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 - **Bootstrap** ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 - **jQuery** ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
@@ -54,4 +55,3 @@ Feel free to reach out to me for collaboration or just to chat about web develop
 ## 🙌 Support
 
 If you like my work and want to support me, please consider starring my repositories. Your support helps me continue to create great projects!
-
