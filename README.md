@@ -4,19 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Indie Developer from N
 
 </hr>
 
-### 💼 Languages and Tools
-
-
-I love turning ideas into reality through code. My journey as a developer has allowed me to work with a wide range of technologies. Here’s a bit more about what I do:
-
-- 🌐 **Website & Theme Development**: Creating stunning websites and themes using modern technologies.
-- 🔧 **Problem-Solving Projects**: Building solutions to address real-life challenges and make life easier.
-- 📚 **Tech Stack**: HTML, CSS, Tailwind CSS, Bootstrap, jQuery, Vue.js, Node.js, PHP, Bash, Laravel.
-- 🇳🇬 **Based in Nigeria**: Proudly building solutions from the heart of Africa.
-
-## 💻 Technologies & Tools
-
-### Frontend
+### 💼 Technologies & Tools
 
 - **HTML** ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 - **CSS** ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -24,29 +12,10 @@ I love turning ideas into reality through code. My journey as a developer has al
 - **Bootstrap** ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 - **jQuery** ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 - **Vue.js** ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
-
-### Backend
-
 - **Node.js** ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
 - **PHP** ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 - **Laravel** ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 - **Bash** ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
-
-## 🌟 Featured Projects
-
-Here are some of the projects I've been working on:
-
-- **[Project 1](https://github.com/your-repo/project1)**: A Shopify theme that enhances user experience with sleek design and advanced features.
-- **[Project 2](https://github.com/your-repo/project2)**: A WordPress theme optimized for performance and easy customization.
-- **[Project 3](https://github.com/your-repo/project3)**: A Bootstrap theme with responsive design and modern aesthetics.
-
-![Featured Projects](https://your-image-url.com/featured-projects.gif)
-
-## 📈 Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-
-## 📫 Get in Touch
 
 Feel free to reach out to me for collaboration or just to chat about web development!
 
