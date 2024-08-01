@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Somkel 👋
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Indie Developer from Nigeria. I specialize in building engaging websites and themes for various platforms including Shopify, WordPress, and HTML Templates, as well as developing other projects to solve real-life problems.
 
